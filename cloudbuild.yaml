@@ -24,7 +24,7 @@ steps:
   
 substitutions:
     #GCP Specific configuration. Please DON'T change anything
-    _PROJECT: learn-gcp-with-mahesh
+    _PROJECT: circular-ally-351513
     _ZONE: asia-south1-a
     _GKE_CLUSTER: learn-gcp-with-mahesh-gke-cluster
     
